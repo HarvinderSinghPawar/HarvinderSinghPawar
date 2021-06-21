@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarvinderSinghPawar
-- 👀 Developer
+- 👀 Python Developer
 - 📫 Feel Free to Contact 9803118153
 
 <!---
